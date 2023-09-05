@@ -1,0 +1,63 @@
+baseURL = 'http://jfex.art/'
+title = 'jfexart'
+theme = 'risotto'
+author = 'Jorge Salazar Tovar'
+copyright = "© [Jorge Salazar Tovar](https://jfex.art) | 2023"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+paginate = 5
+
+sectionPagesMenu = "main"
+
+[params.theme]
+palette = "thimbleweed-dark"
+
+[params.about]
+title = "jfexart website"
+description = "open 24 hours"
+logo = "images/store.svg"
+
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/jfexart"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/jfexart"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.social/@jfexart/"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:me@jfex.art"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
+    
