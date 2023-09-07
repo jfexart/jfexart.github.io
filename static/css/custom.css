@@ -1,6 +1,18 @@
-/* Override this file to customise the theme's CSS for your site */
+a {
+    text-decoration: none;
+}
+
+.about__logo {
+    height: 2rem;
+}
+
+.about__title {
+    display: inline;
+    vertical-align: text-bottom;
+}
+
 .page__logo {
-    /*font-weight: bold;*/
+    font-weight: 600;
 }
 
 .page__logo-inner:before {
@@ -8,7 +20,9 @@
 }
 
 .page__logo-inner:after {
-    content: "@blog:~$";
+    content: "";
+    animation: flash 1s linear infinite;
+    white-space: pre-wrap;
 }
 
 /* Other typographic elements */
@@ -18,7 +32,7 @@ hr {
 }
 
 hr:after {
-    content: '--------';
+    content: '----';
     color: var(--muted);
 }
 
@@ -29,3 +43,25 @@ hr:after {
 .paginator a {
     padding: 10px;
 }
+
+@keyframes flash {
+    0%, 49.9% { content: "@home:~$  "; }
+    50.1%, 100% { content: "@home:~$ _"; }
+}
+
+
+#tag_book:after { content: " 📕" }
+#tag_coffee:after { content: " ☕" }
+#tag_ctf:after { content: " 🚩" }
+#tag_cybersec:after { content: " 🔐" }
+#tag_dev:after { content: " ⌨️" }
+#tag_guitar:after { content: " 🎸" }
+#tag_linux:after { content: " 🐧" }
+#tag_movie:after { content: " 📺" }
+#tag_music:after { content: " 🎵" }
+#tag_videogame:after { content: " 👾" }
+#tag_pic:after { content: " 📷" }
+#tag_tito:after { content: " 🐶" }
+#tag_travel:after { content: " 🎒" }
+#tag_tool:after { content: " 🧰" }
+#tag_scribble:after { content: " 🖍️" }

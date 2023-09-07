@@ -1,15 +1,10 @@
 +++
-title = "About me"
+title = "Home"
 description = "look mom... i made my own website"
-tags = ["index"]
 +++
 
-I'm Jorge. I was compiled in Vene
+This is my personal website where I share a little about myself, projects and some stuffs that interest me (sometimes in english other times in spanish).
 
-I am a Java software developer
+I have no intention to become famous, popular or monetize the content, but if something on this site helps you discover something new, learn, be inspired, reflect or just have fun, that would be great.
 
-I am a collaborator in Pyxis ecosystem
-
-I am the co-founder of Guayoyo, a cybersecurity boutique firm
-
-I also make graphic records and participate as a speaker in meetups and techonologies events
+So welcome and come as you are.

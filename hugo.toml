@@ -1,23 +1,22 @@
-baseURL = 'http://jfex.art/'
+baseURL = 'https://jfex.art/'
 title = 'jfexart'
 theme = 'risotto'
 author = 'Jorge Salazar Tovar'
-copyright = "© [Jorge Salazar Tovar](https://jfex.art) | 2023"
+copyright = "© 2023 | Jorge Salazar Tovar"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 paginate = 5
 
-sectionPagesMenu = "main"
 
 [params.theme]
 palette = "thimbleweed-dark"
 
 [params.about]
-title = "jfexart website"
-description = "open 24 hours"
-logo = "images/store.svg"
+title = "jfexart"
+description = "the signals are strong tonight"
+logo = "images/signal.png"
 
 
 [[params.socialLinks]]
@@ -47,6 +46,21 @@ url = "mailto:me@jfex.art"
     url = "/about/"
     weight = 10
 
+    [[menu.main]]
+    name = 'posts'
+    pageRef = '/post'
+    weight = 20
+
+#    [[menu.main]]
+#    name = 'topics'
+#    pageRef = '/tags'
+#    weight = 30
+
+    [[menu.main]]
+    name = 'projects'
+    pageRef = '/project'
+    weight = 40
+
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -60,4 +74,5 @@ series = "series"
     startLevel = 2
     endLevel   = 3
     ordered    = true
+
     
