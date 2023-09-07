@@ -15,15 +15,15 @@ In 1992 I discovered [The Secret of Monkey Island](https://en.wikipedia.org/wiki
 
 In 1993 my parents bought the first home computer with [Win 3.1](https://en.wikipedia.org/wiki/Windows_3.1x) that I shared with my brothers (reason for many discussions). I just wanted to play games and draw in Paint.
 
-In 1994 my father gave me a Discman and my first CD, it was the soundtrack of the movie [Super Mario Bros (1993)](https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)). It was the first time i heard rock music.
+In 1994 my father gave me a Discman and my first CD, it was the soundtrack of the movie [Super Mario Bros (1993)](https://en.wikipedia.org/wiki/Super_Mario_Bros._(film)). I think it was my first introduction to rock music.
 
 In 1996 my older brother returned home from a trip with two [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) albums: [Bleach](https://en.wikipedia.org/wiki/Bleach_(Nirvana_album)) and [In Utero](https://en.wikipedia.org/wiki/In_Utero). It was my first contact with grunge, a subculture of which I am still a follower.
 
-In 1998 I connected to the internet for the first time after my brothers and I convinced my parents to hire a dial-up internet connection plan. I used programs such [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator), [Napster](https://en.wikipedia.org/wiki/Napster), [ICQ](https://en.wikipedia.org/wiki/ICQ).
+In 1998 I connected to the internet for the first time after my brothers and I convinced my parents to hire a dial-up internet connection plan. The sound of dial-up is something I can never forget
 
-In 2000 my dad offered to buy me a guitar if I stopped skating. He was afraid that he would seriously hurt me. It was a difficult decision for me, but I ended up accepting.
+In 2000 my dad offered to buy me a guitar if I stopped skating. He was afraid that I would seriously hurt me. It was a difficult decision for me, but I ended up accepting. I remember it was the cheapest guitar in the store.
 
-In 2001 with my brothers and some friends we formed Corrosión, a nu metal band. We were on radio, TV and playing at various events, coming to share the stage with bands like Liqüet and Despuesdevieja (DDV).
+In 2001 with my brothers and some friends we formed Corrosión, a nu metal band. We were on radio, TV and in some live show, where we shared stages with bands like Liqüet and Despuesdevieja (DDV).
 
 In 2004 I used Linux for the first time and also started programming with Java. Both in college. This was what somehow later guided me professionally when I graduated.
 
@@ -37,8 +37,8 @@ In 2009 with my younger brother and some friends we created Pragmatic, a technol
 
 In 2014 I did some important things that are somehow related to each other: I married Daniela, we moved to [Montevideo, Uruguay](https://en.wikipedia.org/wiki/Montevideo) and I started a new job at [Pyxis](https://pyxis.tech/).
 
-In 2015 I saw [Pearl Jam](https://en.wikipedia.org/wiki/Pearl_Jam) for the first and only time (for now) in [La Plata, Argentina](https://en.wikipedia.org/wiki/La_Plata). It was very exciting for me to go to my favorite band's concert.
+In 2015 I attended a [Pearl Jam](https://en.wikipedia.org/wiki/Pearl_Jam) show for the first and only time (for now) in [La Plata, Argentina](https://en.wikipedia.org/wiki/La_Plata). It was very exciting for me to see my favorite band live.
 
-In 2016 together with Edgar (my younger brother) and a friend, we founded [Guayoyo](https://guayoyo.io), a cybersecurity boutique firm. This same year, Daniela and I decided to adopt Tito, my first dog.
+In 2016 I co-founded [Guayoyo](https://guayoyo.io), a cybersecurity boutique firm. This same year, Daniela and I decided to adopt Tito, my first dog.
 
 In 2023 we moved to [Ciudad de la Costa, Uruguay](https://en.wikipedia.org/wiki/Ciudad_de_la_Costa).
