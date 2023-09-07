@@ -9,7 +9,6 @@ enableInlineShortcodes = true
 enableEmoji = true
 paginate = 5
 
-
 [params.theme]
 palette = "thimbleweed-dark"
 
@@ -17,7 +16,6 @@ palette = "thimbleweed-dark"
 title = "jfexart"
 description = "the signals are strong tonight"
 logo = "images/signal.png"
-
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -74,5 +72,3 @@ series = "series"
     startLevel = 2
     endLevel   = 3
     ordered    = true
-
-    
