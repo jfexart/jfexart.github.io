@@ -2,7 +2,7 @@ baseURL = 'https://jfex.art/'
 title = 'jfexart'
 theme = 'risotto'
 author = 'Jorge Salazar Tovar'
-copyright = "© 2023 | Jorge Salazar Tovar"
+copyright = "© 2023 - 2024 | Jorge Salazar Tovar"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -30,7 +30,7 @@ url = "https://www.linkedin.com/in/jfexart"
 [[params.socialLinks]]
 icon = "fa-brands fa-x-twitter"
 title = "X"
-url = "https://twitter.com/jfexart/"
+url = "https://x.com/jfexart/"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-unsplash"
