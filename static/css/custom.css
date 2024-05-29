@@ -3,7 +3,8 @@ a {
 }
 
 .about__logo {
-    height: 2rem;
+    height: 3rem;
+    border-radius: 3px;
 }
 
 .about__title {

@@ -15,7 +15,7 @@ palette = "thimbleweed-dark"
 [params.about]
 title = "jfexart"
 description = "the signals are strong tonight"
-logo = "images/signal.png"
+logo = "images/me.jpeg"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -26,6 +26,16 @@ url = "https://github.com/jfexart"
 icon = "fa-brands fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/jfexart"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-x-twitter"
+title = "X"
+url = "https://twitter.com/jfexart/"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-unsplash"
+title = "Unsplash"
+url = "https://unsplash.com/@jfexart"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-mastodon"
